@@ -1,0 +1,1 @@
+git clone --single-branch --branch master https://github.com/rikyoz/bit7z src
